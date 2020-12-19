@@ -1,0 +1,139 @@
+#mainNavbar{
+    background-color: rgb(129, 177, 177);
+    height: 12vh;
+    font-family: 'Balsamiq Sans', cursive;
+    font-size: 1.5em;
+    font-weight: 100;
+    color: white;
+}
+
+.nav-item{
+    padding: 20px;
+    color: white;
+
+}
+.header-gif{
+    height: 6rem;
+    width:15rem;
+    margin-top: 0px;
+    display: inline;
+    margin-left: 800px;
+}
+
+.intro p,.intro h1{
+    font-family: 'Russo One', sans-serif;
+    justify-content: center;
+    text-align: center;
+}
+.intro h1{
+    color: rgb(59, 54, 54);
+    font-size: 2rem;
+}
+p.name{
+    font-size: 2rem;
+    font-weight: 800;
+}
+p.role{
+    font-size: 2rem;
+    font-weight:700;
+    color: rgb(90, 85, 85);
+}
+
+.skills h2{
+    font-family: 'Russo One', sans-serif;
+    color: rgb(68, 61, 61);
+    justify-content: center;
+    text-align: center;
+}
+.skills-card{
+    display: flex;
+    flex-wrap: wrap;
+    width : 95%;
+    margin-left: 10px;
+}
+
+.skills-list li{
+    list-style: none;
+}
+.card{
+    border: 1px solid;
+    height: 13.3rem;
+    width: 15.7em;
+    box-shadow: 5px 10px rgb(196, 180, 180);
+    margin:auto;
+} 
+
+.card-img-top{
+    height: 7.5rem;
+    background-size: 19.7rem 7.5rem;
+}
+
+.card-body{
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    font-size: 1.5rem;
+}
+
+footer{
+    background-color: rgb(44, 42, 42);
+    height: 12rem;
+}
+
+footer ul li{
+    list-style: none;
+    display: inline;
+    padding: 80px;
+    justify-content: center;
+    margin: 80px;
+    padding-top:50px ;
+}
+
+.contacts{
+    display: flex;
+    justify-content: center;
+}
+
+footer h1{
+    font-size: 2.2rem;
+    text-align: center;
+    color: white;
+}
+
+.panel-card{
+    width: 80rem;
+    justify-content: center;
+    padding-left: 50px;
+}
+
+.panel-item-wrapper{
+    text-align: left;
+    border: 2px solid rgb(212, 218, 226);
+    border-radius: 5px;
+    box-shadow: 5px 0px rgb(196, 180, 180);
+}
+
+.panel-item-wrapper:hover{
+    border: 2px solid rgb(141, 135, 135);
+    box-shadow: 7px 0px rgb(196, 180, 180);
+}
+
+.panel-title, .panel-body{
+    margin: 10px;
+    padding: 10px;
+}
+
+.panel-title{
+    font-family: 'Righteous', cursive;
+    font-size: 2rem;
+}
+
+.panel-body{
+    font-family: 'Caveat', cursive;
+    font-family: 'Philosopher', sans-serif;
+    font-family: 'Russo One', sans-serif;
+    font-family: 'Sacramento', cursive;
+    font-size: 1.5rem;
+}
+.btn-danger{
+    margin-left: 50px;
+}
