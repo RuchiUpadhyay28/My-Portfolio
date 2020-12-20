@@ -5,6 +5,7 @@
     font-size: 1.5em;
     font-weight: 100;
     color: white;
+    border-radius: 5px;
 }
 
 .nav-item{
@@ -77,6 +78,9 @@ p.role{
 footer{
     background-color: rgb(44, 42, 42);
     height: 12rem;
+    border-radius:5px;
+    /* padding-bottom: 500px; */
+    margin-bottom: -32000px;
 }
 
 footer ul li{
@@ -136,4 +140,16 @@ footer h1{
 }
 .btn-danger{
     margin-left: 50px;
+}
+
+.emojiImg,.bollyImg{
+    height: 35vh;
+}
+
+.foodImg{
+    height: 32vh;;
+}
+
+.shakesImg{
+    height: 40vh;
 }
