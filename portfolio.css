@@ -153,3 +153,22 @@ footer h1{
 .shakesImg{
     height: 40vh;
 }
+
+.blogs{
+    margin-left: 7rem;
+}
+
+.title{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.date{
+    color: grey;
+}
+
+.content{
+    margin-right: 12rem;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
